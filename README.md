@@ -35,9 +35,8 @@ This is why we build. This is who we build for.
 Have an idea, a problem to solve, or just want to say hello?
 
 | Channel | Link |
-|--------|------|
+|-------- |------|
 | 📧 Email | `binary-prokashoni@duck.com` |
-|
 | 🌐 Website | [Binary Prokashoni](https://binary-prokashoni.github.io) |
 
 ---
