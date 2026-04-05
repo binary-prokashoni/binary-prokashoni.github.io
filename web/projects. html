@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -450,7 +449,7 @@ ul{list-style:none}
     <span id="navName">Binary Prokashoni</span>
   </a>
   <ul class="nav-center">
-    <li><a href="index.html#about" class="nav-lnk">About</a></li>
+    <li><a href="index.html#hero" class="nav-lnk">Home</a></li>
     <li><a href="index.html#members" class="nav-lnk">Team</a></li>
     <li><a href="projects.html" class="nav-lnk active">Projects</a></li>
   </ul>
@@ -465,8 +464,8 @@ ul{list-style:none}
 
 <!-- MOBILE MENU -->
 <div class="mmenu" id="mmenu">
-  <a href="home.html#about" onclick="toggleMenu()">About</a>
-  <a href="home.html#members" onclick="toggleMenu()">Team</a>
+  <a href="index.html#hero" onclick="toggleMenu()">Home</a>
+  <a href="index.html#members" onclick="toggleMenu()">Team</a>
   <a href="Projects.html" onclick="toggleMenu()">Projects</a>
   <a href="https://github.com/binary-prokashoni" target="_blank" rel="noopener">GitHub ↗</a>
 </div>
