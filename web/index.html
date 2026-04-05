@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -455,7 +454,7 @@ async function fetchOrg(){
     // নিচের এই লাইনগুলোতে 'if' যোগ করা হয়েছে যেন আইডি না থাকলেও কোড না থামে
     if($('aboutBody')) $('aboutBody').textContent = d.description;
     
-    document.title = name + ' · Portfolio';
+    document.title = name + ' · Home';
   } catch(e) {
     console.error("Org load error:", e);
     $('heroSub').textContent = 'Could not load organization data.';
@@ -590,4 +589,4 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
 fetchOrg();fetchMembers();fetchRepos();
 </script>
 </body>
-</html>
+                               </html>
